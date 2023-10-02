@@ -1,0 +1,15 @@
+{
+  "name": "lmdb-reproduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Daubenschütz <tim@daubenschuetz.de> (https://proofinprogress.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "cbor-x": "1.5.4",
+    "lmdb": "2.8.5"
+  }
+}
